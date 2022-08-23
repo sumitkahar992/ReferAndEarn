@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724996628302",
+    "project_id": "referandearn-3fa9a",
+    "storage_bucket": "referandearn-3fa9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724996628302:android:3c63eb2e962f3da916081f",
+        "android_client_info": {
+          "package_name": "com.example.referandearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724996628302-pa2svp3e50fkghum099hmb0obcq0teuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD682xQ_JJuIISNaDEZgbmQUeuJLSYtR3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724996628302-pa2svp3e50fkghum099hmb0obcq0teuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
